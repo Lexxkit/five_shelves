@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  */
 public class App 
 {
-    public static int NUMBER_OF_SHELVES = 5;
+    public static final int NUMBER_OF_SHELVES = 5;
 
     public static void main( String[] args )
     {
